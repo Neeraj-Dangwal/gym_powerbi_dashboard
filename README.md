@@ -30,6 +30,3 @@ An interactive fitness calculator is included to estimate BMI, BMR, and daily ca
 
 ## Purpose of the Project
 The purpose of this project is to demonstrate the use of Power BI for building interactive dashboards that provide meaningful insights from business and fitness-related datasets.
-
-## Author
-Data Analytics Project developed as part of a learning portfolio to demonstrate skills in data visualization, dashboard development, and business data analysis using Power BI.
